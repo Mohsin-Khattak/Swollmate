@@ -1,0 +1,14 @@
+import Location from '../../screens/accountCompletion/location';
+import Gender from '../../screens/accountCompletion/gender';
+import AddYourPhoto from '../../screens/accountCompletion/addYourPhotos';
+import Birthday from '../../screens/accountCompletion/birthday';
+import PartnerGender from '../../screens/accountCompletion/partnerGender';
+import AddHere from '../../screens/accountCompletion/AddHere';
+import StartedWithSwollmate from '../../screens/accountCompletion/startedswollmate';
+export {Location};
+export {Gender};
+export {AddYourPhoto};
+export {Birthday};
+export {PartnerGender};
+export {AddHere};
+export {StartedWithSwollmate};

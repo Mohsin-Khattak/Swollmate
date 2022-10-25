@@ -1,0 +1,17 @@
+export const colors = {
+  colorblack: '#242424',
+  colorwhite: 'white',
+  colorbrown: '#E5E5E5',
+  colorButton: '#82DE1B',
+  backgroundTxtInput: '#F1F1F1',
+  FontTxtInput: '#BCBCBC',
+  colorDot: '#D9D9D9',
+  skipbtn: '#F1F1F1',
+  skilbtn: '#3D3E3F',
+  colorDot1: '#7B7B7B',
+  colorMahron: '#B72C00',
+  colorChange: '#BAC0CA',
+  colorline: '#ADB5BD',
+  colormessage: '#F7F7FC',
+  red: 'red',
+};
